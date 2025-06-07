@@ -10,3 +10,4 @@ langgenius/dify-web:1.3.0
 ubuntu/squid:latest
 xprobe/xinference:latest
 certbot/certbot
+xprobe/xinference:nightly-main
