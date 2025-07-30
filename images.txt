@@ -12,4 +12,3 @@ ubuntu/squid:latest
 xprobe/xinference:v1.6.1
 certbot/certbot
 rocm/vllm:latest
-vastdata/vastbase-vector
