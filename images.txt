@@ -1,7 +1,7 @@
 nginx:latest
-langgenius/dify-plugin-daemon:0.1.2-local
-langgenius/dify-web:1.4.2
-langgenius/dify-api:1.4.2
+langgenius/dify-plugin-daemon:0.2.0-local
+langgenius/dify-web:1.7.1
+langgenius/dify-api:1.7.1
 langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 postgres:15-alpine
@@ -12,3 +12,4 @@ ubuntu/squid:latest
 xprobe/xinference:v1.6.1
 certbot/certbot
 rocm/vllm:latest
+vastdata/vastbase-vector
