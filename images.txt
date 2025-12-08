@@ -1,7 +1,7 @@
 nginx:latest
-langgenius/dify-plugin-daemon:0.3.0-local
-langgenius/dify-web:1.9.0
-langgenius/dify-api:1.9.0
+langgenius/dify-plugin-daemon:0.4.1-local
+langgenius/dify-web:1.10.1-fix.1
+langgenius/dify-api:1.10.1-fix.1
 langgenius/qdrant:latest
 pgvector/pgvector:pg16
 postgres:15-alpine
@@ -10,3 +10,14 @@ semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.12
 ubuntu/squid:latest
 certbot/certbot
+supabase/studio:2025.11.26-sha-8f096b5
+kong:2.8.1
+supabase/gotrue:v2.183.0
+postgrest/postgrest:v13.0.7
+supabase/realtime:v2.65.3
+supabase/storage-api:v1.32.0
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.93.1
+supabase/edge-runtime:v1.69.25
+supabase/logflare:1.26.13
+mysql:8.0
