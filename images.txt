@@ -29,4 +29,3 @@ python:3.10-slim
 busybox:latest
 oceanbase/oceanbase-ce:4.3.5-lts
 oceanbase/seekdb:latest
-vastdata/vastbase-vector
