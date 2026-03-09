@@ -5,7 +5,7 @@ langgenius/dify-api:1.10.1-fix.1
 langgenius/qdrant:latest
 pgvector/pgvector:pg16
 postgres:15-alpine
-redis:6-alpine
+redis:7-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.12
 ubuntu/squid:latest
@@ -21,3 +21,6 @@ supabase/postgres-meta:v0.93.1
 supabase/edge-runtime:v1.69.25
 supabase/logflare:1.26.13
 mysql:8.0
+qdrant/qdrant:latest
+neo4j:5-community
+nginx:alpine
